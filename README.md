@@ -2,17 +2,18 @@
 Я Юлия Новикова, QA-инженер
 
 ## Сертификаты / Certificates:
-[Ручное тестирование веб-приложений / Manual Testing of Web Applications](https://drive.google.com/file/d/1ej5HaJ7CQJ2yV9bRErQjW0Ryn4PrTXTU/view?usp=drive_link)  
-[Git — система контроля версий / Git — Version Control System](https://drive.google.com/file/d/1itcDWoNCvgcUFVhsEx6RdZ3AymLUGwAY/view?usp=drive_link)  
-[Java для тестировщиков / Java for Testers](https://drive.google.com/file/d/1ZouFzs8394DeiJIxkKCk8Ae_3VsYNDQU/view?usp=drive_link)  
-[Автоматизированное тестирование / Automated Testing](https://drive.google.com/file/d/1ZV7n6g0Rvt7Ieb1C8TwT_PdA7tOnOyle/view?usp=drive_link)  
-[Python, основы / Python, basics](https://drive.google.com/file/d/15tS2cgEWOOwoktKhbeQ_1lmHyd9K7oKg/view?usp=drive_link)  
-[JavaScript для тестировщиков / JavaScript for Testers](https://drive.google.com/file/d/1oPkSaMadSw4KAtMfGd2CqyF2tMexaUvQ/view?usp=drive_link)  
-[Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](https://drive.google.com/file/d/1Cr04LBAhWEZzBHxnpPwsBrd4ZmtDyXde/view?usp=drive_link)  
-[Тестирование мобильных приложений / Mobile Application Testing](https://drive.google.com/file/d/1Z90myHNg7VWZruNi-Lb5kFeOB_UW29BR/view?usp=drive_link)  
-[Тестирование безопасности / Security Testing](https://drive.google.com/file/d/1CI86XMIaZCMUm-spHfLVqGODHMd4xLmT/view?usp=drive_link)  
-[Тестирование производительности / Performance Testing](https://drive.google.com/file/d/1r55fI4t-hLFdN5UdVb77xEwilgLPHqNd/view?usp=drive_link)  
-[Свидетельство о прохождении курса "Инженер по тестированию: с нуля до middle" / Training Course Certificate](https://drive.google.com/file/d/1b2xafDHV0dcrZGvihCUyOW6bzlMlzwBb/view?usp=drive_link)  
+[Ручное тестирование веб-приложений / Manual Testing of Web Applications](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate1.pdf)  
+[Git — система контроля версий / Git — Version Control System](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate2.pdf)  
+[Java для тестировщиков / Java for Testers](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate3.pdf)  
+[Автоматизированное тестирование / Automated Testing](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate4.pdf)  
+[Python, основы / Python, basics](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate5.pdf)  
+[JavaScript для тестировщиков / JavaScript for Testers](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate6.pdf)  
+[Автоматизация тестирования веб-интерфейсов / Web Interface Testing Automation](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate7.pdf)  
+[Тестирование мобильных приложений / Mobile Application Testing](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate8.pdf)  
+[Тестирование производительности / Performance Testing](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate9.pdf)  
+[Тестирование безопасности / Security Testing](https://github.com/sunsetLatte/sunsetLatte/blob/main/certificate10.pdf)  
+[Диплом по профессии "Инженер по тестированию: с нуля до middle" / Professional diploma](https://github.com/sunsetLatte/sunsetLatte/blob/main/diplom.pdf)  
+[Приложение к диплому / Diploma Supplement](https://github.com/sunsetLatte/sunsetLatte/blob/main/pril_dipl.pdf)  
 
 ## Технологии / Technologies:
 ### Языки программирования / Programming Languages:
